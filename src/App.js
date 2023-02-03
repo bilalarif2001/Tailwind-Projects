@@ -1,7 +1,11 @@
+import EmailSubscribe from "./mini-projects/email-subscribe/email-sub";
+
 
 function App() {
   return (
-   <div className="">hello</div>
+   <div>
+    <EmailSubscribe/>
+   </div>
   );
 }
 
